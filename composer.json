@@ -18,7 +18,7 @@
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-bootstrap": "~2.0.0",
         "cebe/yii2-gravatar": "1.*",
-        "yahya6789/adminlte": "dev-master",
+        "yahya6789/adminlte": "dev-master@dev",
         "rmrevin/yii2-fontawesome": "~2.9",
         "yiisoft/yii2-composer": "2.0.4"
     },
